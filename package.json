@@ -19,7 +19,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "fastify": "^3.21.5",
+    "fastify": "^5.12.6",
     "fastify-secrets-gcp": "^3.0.0"
   },
   "devDependencies": {
